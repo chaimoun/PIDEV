@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/entite/CarteFidelite.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/util/ConnexionBD.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/service/ServiceProduit.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/service/serviceCarteFid.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/gestionvente2/GestionVente2.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/service/serviceLivraison.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/entite/Commande.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/entite/livraison.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/service/ServiceCommande.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/service/ServicePanier.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/entite/LigneCommmande.java</file>
+            <file>file:/C:/Users/Djemaiel/Documents/NetBeansProjects/gestionVente2/src/service/ServiceLigneCommande.java</file>
+        </group>
+    </open-files>
+</project-private>
